@@ -9,7 +9,9 @@ thanks to iasplus, you no longer have to shell out $200+ on paperback ifrs... th
 1. run "iaspluscrape.py"
 2. wait for webdriver to load content links, and input range ("starting number", "ending number")
 3. assuming selenium spends 5 seconds on each link, the entire operation should take less than 10 minutes to complete.
+4. the entire steaming output? "finalout.txt". enjoy
 <br/>
 <br/>
 <br/>
-_copyright notice: this is a scraper tool, nothing more. IASPLUS and IFRS are registered trademarks of Deloitte Touche Tohmatsu Limited and the IFRS Foundation respectively._
+*copyright notice: this is a scraper tool, nothing more. content remains with their rightful copyright owners.*
+*IASPLUS and IFRS are registered trademarks of Deloitte Touche Tohmatsu Limited and the IFRS Foundation respectively.*

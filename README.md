@@ -5,8 +5,6 @@ thanks to iasplus, you no longer have to shell out $200+ on paperback ifrs... th
 <br/>
 <br/>
 ## how to use
-<br/>
-<br/>
 1. run "iaspluscrape.py"
 <br/>
 2. wait for webdriver to load content links, and input range ("starting number", "ending number")
@@ -15,4 +13,4 @@ thanks to iasplus, you no longer have to shell out $200+ on paperback ifrs... th
 <br/>
 <br/>
 <br/>
-copyright notice: this is a scraper tool, nothing more. IASPLUS and IFRS are registered trademarks of Deloitte Touche Tohmatsu Limited (“DTTL”) and the IFRS Foundation respectively.
+*copyright notice: this is a scraper tool, nothing more. IASPLUS and IFRS are registered trademarks of Deloitte Touche Tohmatsu Limited (“DTTL”) and the IFRS Foundation respectively.*

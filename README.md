@@ -1,6 +1,7 @@
 # IFRSCRAPER
 thanks to iasplus, you no longer have to shell out $200+ on paperback ifrs... thanks to selenium, you can save time on clicking into 108 links and copying 287 pages of content manually
 <br/>
+<br/>
 *compatible with Google Chrome, Version 87.0.4280.88 (Official Build) (64-bit).*
 <br/>
 <br/>

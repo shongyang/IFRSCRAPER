@@ -13,6 +13,6 @@ thanks to iasplus, you no longer have to shell out $200+ on paperback ifrs... th
 <br/>
 <br/>
 <br/>
-*copyright notice: this is a scraper tool, nothing more. content remains with their rightful copyright owners.*
+*copyright notice: this is a scraper tool, nothing more. rights over content belong to their rightful copyright owners.*
 <br/>
 *IASPLUS and IFRS are registered trademarks of Deloitte Touche Tohmatsu Limited and the IFRS Foundation respectively.*
